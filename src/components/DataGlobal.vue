@@ -64,10 +64,7 @@ export default {
     },
 
     methods:{
-        ...mapActions(['obtenerData', 'obtenerDataMundial']),
-        mostarDataMundial(){
-            return this.dataMundial
-        }
+        ...mapActions(['obtenerData', 'obtenerDataMundial'])
     },
     
     data(){
@@ -78,3 +75,4 @@ export default {
     }
 }
 </script>
+httP:/198.211.105.247/

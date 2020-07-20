@@ -10,6 +10,8 @@
       <bar-chart :data="datos"></bar-chart>
        <div id="container3"></div>
     </div>
+
+    
 </template>
 <script>
 

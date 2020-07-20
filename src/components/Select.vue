@@ -187,7 +187,7 @@ export default {
             chart.tooltip()
                     .displayMode('separated')
                     .positionMode('point')
-                    .separator(false)
+                    .separator(true)
                     .position('right')
                     .anchor('left-bottom')
                     .offsetX(2)
@@ -198,6 +198,10 @@ export default {
             chart.container('container');
             chart.draw();
             });
+        },
+
+        graficaPastel(){
+
         },
 
 

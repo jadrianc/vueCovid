@@ -10,6 +10,7 @@
                 <ul class="nav justify-content-end">
                 <li class="nav-item p-3">
                   <router-link to="/">Home</router-link>
+  
                 </li>
                 <li class="nav-item p-3">
                   <router-link to="/Paises">Paises</router-link>
