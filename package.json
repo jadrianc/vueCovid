@@ -9,7 +9,7 @@
   },
   "homepage": "https://jadrianc.github.io/vueCovid",
   "dependencies": {
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "core-js": "^3.6.5",
     "gh-pages": "^3.1.0",
     "vue": "^2.6.11",
